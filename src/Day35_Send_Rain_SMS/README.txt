@@ -13,8 +13,5 @@ from twilio.rest import Client
 -Add two commands : proxy_client = TwilioHttpClient()
                     proxy_client.session.proxies={'https':os.environ['https_proxy]'}
                     client = Client(account_id,auth_token,http_client=proxy_client)
-account_sid="AC3940091ea68f2470237280e54ca7d626"
-auth_token="5834bca84da4fc8c437f6b3243ce5cb4"
-API_KEY ="6abc354a24000b4c1524033a604ca328"
-from_="+16187403743",
+
 
