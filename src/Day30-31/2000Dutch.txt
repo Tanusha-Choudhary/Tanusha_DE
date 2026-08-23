@@ -1,0 +1,2001 @@
+Rank	Dutch	English
+1	de	the
+2	zijn	to be
+3	en	and
+4	naar	to
+5	van	of
+6	een	a
+7	ik	I
+8	hebben	to have
+9	dat	that
+10	hij	he
+11	niet	not
+12	zijn	his
+13	haar	her
+14	het	it
+15	u	you
+16	met	with
+17	voor	for
+18	Te doen	to do
+19	ze	she
+20	zoals	as
+21	op	on
+22	zeggen	to say
+23	op	at
+24	hem	him
+25	van	from
+26	maar	but
+27	mijn	my
+28	gaan	to go
+29	ze	they
+30	allemaal	all
+31	door	by
+32	deze	this
+33	een	one
+34	uit	out
+35	omhoog	up
+36	weten	to know
+37	zo	so
+38	een	an
+39	zien	to see
+40	kon	could
+41	of	or
+42	hen	them
+43	te krijgen	to get
+44	wij	we
+45	net zoals	like
+46	komen	to come
+47	wat	what
+48	maken	to make
+49	er	there
+50	wat betreft	about
+51	welke	which
+52	hun	their
+53	in	into
+54	denken	to think
+55	Kijken	to look
+56	als	if
+57	wie	who
+58	wanneer	when
+59	nemen	to take
+60	tijd	time
+61	Nee	no
+62	terug	back
+63	willen	to will
+64	jouw	your
+65	meer	more
+66	dan	then
+67	naar beneden	down
+68	goed	good
+69	over-	over
+70	vertellen	to tell
+71	nu	now
+72	hand-	hand
+73	sommige	some
+74	willen	to want
+75	net	just
+76	enkel en alleen	only
+77	dan	than
+78	manier	way
+79	geven	to give
+80	anders	other
+81	dag	day
+82	oog	eye
+83	voor	before
+84	vragen	to ask
+85	vinden	to find
+86	twee	two
+87	weinig	little
+88	lang	long
+89	heel	very
+90	voelen	to feel
+91	ieder	any
+92	ding	thing
+93	te	too
+94	hier	here
+95	nooit	never
+96	Verlaten	to leave
+97	persoon	person
+98	oud	old
+99	hoofd	head
+100	draaien	to turn
+101	nog een keer	again
+102	door	through
+103	zelfs	even
+104	gezicht	face
+105	veel	much
+106	uit	off
+107	ons	us
+108	eerste	first
+109	rechts	right
+110	onze	our
+111	hoe	how
+112	waar	where
+113	na	after
+114	haar	its
+115	vrouw	woman
+116	weg	away
+117	leven	life
+118	lijken	to seem
+119	bellen	to call
+120	nog steeds	still
+121	horen	to hear
+122	jaar	year
+123	eigen	own
+124	werken	to work
+125	moeten	should
+126	plaats	place
+127	kamer	room
+128	goed	well
+129	staan	to stand
+130	moeten	to must
+131	zichzelf	himself
+132	in de omgeving van	around
+133	deur-	door
+134	naar macht	to might
+135	iets	something
+136	proberen	to try
+137	houden van	to love
+138	huis	house
+139	nacht	night
+140	zetten	to put
+141	Super goed	great
+142	zodanig	such
+143	houden	to keep
+144	zitten	to sit
+145	laatste	last
+146	beginnen	to begin
+147	omdat	because
+148	die	those
+149	deze	these
+150	woord	word
+151	gebruiken	to use
+152	nodig hebben	to need
+153	openen	to open
+154	vasthouden	to hold
+155	een ander	another
+156	terwijl	while
+157	meest	most
+158	praten	to talk
+159	te laten	to let
+160	op	upon
+161	ver	far
+162	zonder	without
+163	huis	home
+164	glimlachen	to smile
+165	altijd	always
+166	stem	voice
+167	kind	child
+168	vader	father
+169	lopen	to walk
+170	jong	young
+171	om te betekenen	to mean
+172	niets	nothing
+173	rennen	to run
+174	hoewel	though
+175	tegen	against
+176	moeder	mother
+177	dezelfde	same
+178	naam	name
+179	spreken	to speak
+180	veel	many
+181	geest	mind
+182	weinig	few
+183	brengen	to bring
+184	licht	light
+185	sluiten	to close
+186	kant	side
+187	ooit	ever
+188	bewegen	to move
+189	mogen	to may
+190	vriend	friend
+191	elk	every
+192	drie	three
+193	een keer	once
+194	genoeg	enough
+195	worden	to become
+196	meisje	girl
+197	onder	under
+198	nieuwe	new
+199	einde	end
+200	leven	to live
+201	ook	also
+202	helpen	to help
+203	tussen	between
+204	wereld-	world
+205	vallen	to fall
+206	beginnen	to start
+207	elk	each
+208	wachten	to wait
+209	kijken	to watch
+210	stoppen	to stop
+211	iets	anything
+212	beide	both
+213	voet	foot
+214	een deel	part
+215	klein	small
+216	tot	until
+217	werkelijk	really
+218	te beantwoorden	to answer
+219	laten zien	to show
+220	jongen	boy
+221	zichzelf	herself
+222	liegen	to lie
+223	zeker	sure
+224	Cursus	course
+225	gebeuren	to happen
+226	geloven	to believe
+227	terugbrengen	to return
+228	achter	behind
+229	punt	point
+230	volgende	next
+231	nog	yet
+232	hart-	heart
+233	bijna	almost
+234	instellen	to set
+235	lichaam	body
+236	waarom	why
+237	slagen	to pass
+238	ochtend-	morning
+239	uur	hour
+240	geluid	sound
+241	ontmoeten	to meet
+242	wit	white
+243	onthouden	to remember
+244	soort	kind
+245	hopen	to hope
+246	bereiken	to reach
+247	sterven	to die
+248	slecht	bad
+249	voor de helft	half
+250	lachen	to laugh
+251	familie	family
+252	sinds	since
+253	hoog	high
+254	boek	book
+255	er toe doen	matter
+256	stap	step
+257	veranderen	to change
+258	vraag	question
+259	aan de overkant	across
+260	begrijpen	to understand
+261	volgen	to follow
+262	samen	together
+263	vrouw	wife
+264	trekken	to pull
+265	langs	along
+266	tafel	table
+267	spelen	to play
+268	verliezen	to lose
+269	groot	big
+270	huilen	to cry
+271	zwart	black
+272	haar-	hair
+273	lezen	to read
+274	voorkant	front
+275	versturen	to send
+276	heel	quite
+277	breken	to break
+278	mezelf	myself
+279	zullen	to shall
+280	nu al	already
+281	minuut	minute
+282	donker	dark
+283	spoedig	soon
+284	in de richting van	toward
+285	geheel	whole
+286	auto	car
+287	venster	window
+288	schudden	to shake
+289	anders	else
+290	rust uit	rest
+291	geld	money
+292	feit	fact
+293	zoon	son
+294	schrijven	to write
+295	brand	fire
+296	tweede	second
+297	te blijven	to stay
+298	zich afvragen	to wonder
+299	geval	case
+300	verhaal	story
+301	lijn	line
+302	groeien	to grow
+303	lucht	air
+304	wensen	to wish
+305	gedachte	thought
+306	opstaan	to rise
+307	minst	least
+308	vol	full
+309	vangen	to catch
+310	leiden	to lead
+311	groot	large
+312	verschijnen	to appear
+313	alles	everything
+314	zorgen	to care
+315	dragen	to carry
+316	dood	death
+317	slapen	to sleep
+318	vermoorden	to kill
+319	idee	idea
+320	antwoorden	to reply
+321	dragen	to wear
+322	muur	wall
+323	rijden	to drive
+324	in de buurt	near
+325	tekenen	to draw
+326	schouder	shoulder
+327	Verleden	past
+328	dood	dead
+329	vroeg	early
+330	staren	to stare
+331	alleen	alone
+332	zin	sense
+333	mond	mouth
+334	liever	rather
+335	dragen	to bear
+336	vier	four
+337	doorgaan	to continue
+338	boom	tree
+339	broer	brother
+340	reden	reason
+341	paard	horse
+342	anderen	others
+343	bestellen	order
+344	vijf	five
+345	aanraken	to touch
+346	ronde	round
+347	diep	deep
+348	brief	letter
+349	Missen	Miss
+350	veronderstellen	to suppose
+351	dwingen	force
+352	stad-	town
+353	eten	to eat
+354	duidelijk	clear
+355	trouwen	to marry
+356	gooien	to throw
+357	land	country
+358	aanwezig	present
+359	binnen	inside
+360	verdieping	floor
+361	betalen	to pay
+362	knikken	to nod
+363	vinger	finger
+364	blijven	to remain
+365	scheur	tear
+366	straat	street
+367	dame	lady
+368	minder	less
+369	angst	fear
+370	iemand	someone
+371	bedrijf	business
+372	in staat	able
+373	stoel	chair
+374	vergeten	to forget
+375	kiezen	to pick
+376	verwachten	to expect
+377	rood	red
+378	macht	power
+379	een blik te werpen	to glance
+380	misschien	perhaps
+381	kort	short
+382	grond	ground
+383	lip-	lip
+384	echt	real
+385	kleden	to dress
+386	maand	month
+387	luisteren	to listen
+388	laat	late
+389	school-	school
+390	een van beide	either
+391	wie	whom
+392	laag	low
+393	tussen	among
+394	man	husband
+395	toevoegen	to add
+396	verschillend	different
+397	laten vallen	to drop
+398	drinken	to drink
+399	leren	to learn
+400	plotseling	suddenly
+401	papier	paper
+402	land-	land
+403	soort	sort
+404	vaak	often
+405	avond	evening
+406	bovenstaande	above
+407	honderd	hundred
+408	beslissen	to decide
+409	opmerken	to notice
+410	dochter	daughter
+411	kantoor	office
+412	koude	cold
+413	figuur	figure
+414	weg	road
+415	gevoel	feeling
+416	hangen	to hang
+417	snijden	to cut
+418	aantal	number
+419	fijn	fine
+420	stad	city
+421	verrassen	to surprise
+422	te verhogen	to raise
+423	vullen	to fill
+424	verscheidene	several
+425	wiens	whose
+426	arm	poor
+427	zeker	certain
+428	waarschijnlijk	probably
+429	geleden	ago
+430	veroorzaken	to cause
+431	binnenkomen	to enter
+432	klaar	ready
+433	blauw	blue
+434	binnen	within
+435	zich	themselves
+436	vooruit	forward
+437	zus	sister
+438	spenderen	to spend
+439	staat	state
+440	echter	however
+441	vechten	to fight
+442	sterk	strong
+443	kussen	to kiss
+444	gedurende	during
+445	beetje	bit
+446	plezieren	to please
+447	buiten	outside
+448	been	leg
+449	Geachte	dear
+450	gelukkig	happy
+451	droom	dream
+452	Notitie	note
+453	fout	wrong
+454	realiseren	to realize
+455	interesseren	interest
+456	bloed	blood
+457	snel	quickly
+458	uitleggen	to explain
+459	menselijk	human
+460	Heer	Lord
+461	rijden	to ride
+462	bedekken	to cover
+463	leunen	to lean
+464	toelaten	to allow
+465	tien	ten
+466	twijfel	doubt
+467	twintig	twenty
+468	mijnheer	sir
+469	mooi	beautiful
+470	oorlog	war
+471	mooi	pretty
+472	langzaam	slowly
+473	mogelijk	possible
+474	moeite	trouble
+475	bezoeken	to visit
+476	kans	chance
+477	duwen	to push
+478	gratis	free
+479	adem	breath
+480	stuk	piece
+481	zon	sun
+482	waarheid	truth
+483	aankomen	to arrive
+484	overwegen	to consider
+485	of	whether
+486	acteren	to act
+487	zelf	itself
+488	noch	nor
+489	iedereen	anyone
+490	teken	sign
+491	transactie	deal
+492	oversteken	to cross
+493	glas	glass
+494	baan	job
+495	af te maken	to finish
+496	fluisteren	to whisper
+497	studeren	to study
+498	het formulier	form
+499	gemakkelijk	easy
+500	leeftijd	age
+501	afbeelding	picture
+502	zes	six
+503	Tenslotte	finally
+504	kopen	to buy
+505	stilte	silence
+506	hond	dog
+507	liggen	to lay
+508	zicht	sight
+509	oor	ear
+510	aanbieden	to offer
+511	schip	ship
+512	jezelf	yourself
+513	naar	towards
+514	zee	sea
+515	beloven	to promise
+516	opheffen	to lift
+517	vliegen	to fly
+518	duizend	thousand
+519	raden	to guess
+520	hoek	corner
+521	zich zorgen maken	to worry
+522	uitzicht	view
+523	probleem	problem
+524	naast	beside
+525	telefoon	phone
+526	aandacht	attention
+527	verstoppen	to hide
+528	missen	to miss
+529	staren	gaze
+530	Politie	police
+531	opslaan	to save
+532	feest	party
+533	Engels	English
+534	steen	stone
+535	Londen	London
+536	vreemd	strange
+537	bang	afraid
+538	pijn	pain
+539	Golf	wave
+540	keuken-	kitchen
+541	het eens zijn	to agree
+542	staken	to strike
+543	drukken	to press
+544	groen	green
+545	paar	couple
+546	vent	guy
+547	Sorry	sorry
+548	ervaring	experience
+549	tot	till
+550	Amerikaans	American
+551	kan zijn	maybe
+552	stoel	seat
+553	rollen	to roll
+554	inderdaad	indeed
+555	blazen	to blow
+556	soms	sometimes
+557	zwaar	heavy
+558	ziel	soul
+559	belangrijk	important
+560	kind	kid
+561	zorgen maken	to concern
+562	de mijne	mine
+563	positie	position
+564	heet	hot
+565	voorbij	beyond
+566	schreeuwen	to shout
+567	onderwerpen	subject
+568	diner	dinner
+569	controleren	to check
+570	geest	spirit
+571	middag	afternoon
+572	officier	officer
+573	stil	quiet
+574	verlangen	desire
+575	behalve	except
+576	aarde	earth
+577	inbeelden	to imagine
+578	pauzeren	to pause
+579	benaderen	to approach
+580	nek	neck
+581	mijl	mile
+582	manier	manner
+583	meedoen	to join
+584	voedsel	food
+585	gebouw	building
+586	plakken	to stick
+587	rand	edge
+588	veld-	field
+589	natuur	nature
+590	rivier-	river
+591	rots	rock
+592	geweer	gun
+593	vermelden	to mention
+594	recht	straight
+595	breed	wide
+596	bedrijf	company
+597	hemel	sky
+598	schieten	to shoot
+599	hout	wood
+600	raken	to hit
+601	dansen	to dance
+602	menigte	crowd
+603	verbranden	to burn
+604	kameraad	fellow
+605	uitdrukking	expression
+606	doos	box
+607	controle	control
+608	kerk	church
+609	zuchten	to sigh
+610	iedereen	everyone
+611	kiezen	to choose
+612	delen	to share
+613	aanbevelen	to suggest
+614	koning	king
+615	ouder	parent
+616	leuk	nice
+617	uitglijden	to slip
+618	bouwen	to build
+619	naar	onto
+620	bijna	nearly
+621	geheugen	memory
+622	kleren	clothes
+623	verslag doen van	report
+624	eenvoudigweg	simply
+625	accepteren	to accept
+626	genieten	to enjoy
+627	huid	skin
+628	geheim	secret
+629	zeker	certainly
+630	spel	game
+631	gesprek	conversation
+632	boot	boat
+633	leeg	empty
+634	vandaag	today
+635	hel	hell
+636	serveren	to serve
+637	zacht	soft
+638	ontsnappen	to escape
+639	toon	tone
+640	haten	to hate
+641	richting	direction
+642	poging	attempt
+643	hoewel	although
+644	groep	group
+645	wang	cheek
+646	zak-	pocket
+647	aankunnen	to manage
+648	Ja	yes
+649	zoeken	to search
+650	ruiken	to smell
+651	de lente	spring
+652	algemeen	general
+653	midden-	middle
+654	links	left
+655	precies	exactly
+656	volgend op	following
+657	pijn doen	to hurt
+658	in rekening brengen	charge
+659	openbaar	public
+660	om te vestigen	to settle
+661	genoegen	pleasure
+662	in plaats daarvan	instead
+663	ontdekken	to discover
+664	heer	gentleman
+665	goud	gold
+666	wat dan ook	whatever
+667	nieuws	news
+668	knie	knee
+669	helder	bright
+670	per direct	immediately
+671	blij	glad
+672	verslaan	to beat
+673	snel	fast
+674	werkelijk	actually
+675	afstand	distance
+676	ontvangen	to receive
+677	plek	spot
+678	tafereel	scene
+679	eisen	to demand
+680	toegeven	to admit
+681	trein	train
+682	klasse	class
+683	dier	animal
+684	bureau	desk
+685	hal	hall
+686	borst	chest
+687	meester	master
+688	koffie	coffee
+689	vertrouwen	to trust
+690	bewaker	guard
+691	stil	silent
+692	schaduw	shadow
+693	zingen	to sing
+694	zak	bag
+695	bewijzen	to prove
+696	Frans	French
+697	lang	tall
+698	onder	beneath
+699	zoeken	to seek
+700	geen	none
+701	haasten	to rush
+702	berg-	mountain
+703	voorbereiden	to prepare
+704	soldaat	soldier
+705	nauwelijks	hardly
+706	grijnzen	to grin
+707	geschiedenis	history
+708	schoon	clean
+709	verkopen	to sell
+710	huwelijk	marriage
+711	actie	action
+712	dorp	village
+713	lid	member
+714	toekomst	future
+715	heuvel	hill
+716	vooral	especially
+717	tuin-	garden
+718	zoet	sweet
+719	regen	rain
+720	karakter	character
+721	reizen	to travel
+722	aanval	attack
+723	sluiten	to shut
+724	rook	smoke
+725	veilig	safe
+726	ruimte	space
+727	Gebied	area
+728	beneden	below
+729	situatie	situation
+730	te beoordelen	to regard
+731	weigeren	to refuse
+732	dertig	thirty
+733	droog	dry
+734	springen	to jump
+735	herhalen	to repeat
+736	op slot doen	to lock
+737	Engeland	England
+738	kunst	art
+739	verder	ahead
+740	derde	third
+741	snel	quick
+742	overhemd	shirt
+743	winnen	to win
+744	neus-	nose
+745	zomer	summer
+746	keel	throat
+747	inspanning	effort
+748	eenvoudig	simple
+749	termijn	term
+750	leren	to teach
+751	langzaam	slow
+752	plicht	duty
+753	muziek-	music
+754	Indiaas	Indian
+755	evenement	event
+756	bloem	flower
+757	markeren	to mark
+758	vogel	bird
+759	verzamelen	to gather
+760	Dhr	Mr
+761	rechtbank	court
+762	vergadering	meeting
+763	schreeuwen	to scream
+764	hoed	hat
+765	falen	to fail
+766	klimmen	to climb
+767	moord	murder
+768	passen	to fit
+769	geen van beide	neither
+770	dun	thin
+771	resultaat	result
+772	haasten	to hurry
+773	compleet	complete
+774	tand	tooth
+775	vastbinden	to tie
+776	doel	purpose
+777	pagina	page
+778	dus	thus
+779	pak	suit
+780	vijand	enemy
+781	eeuw	century
+782	moeite hebben met	to struggle
+783	gebruikelijk	usual
+784	voorwerp	object
+785	wakker worden	to wake
+786	rijk	rich
+787	opeisen	to claim
+788	eerlijk	fair
+789	gemeenschappelijk	common
+790	sterkte	strength
+791	dik	thick
+792	spul	stuff
+793	eerbied	respect
+794	adresseren	to address
+795	leven	living
+796	zeven	seven
+797	herkennen	to recognize
+798	te behoren	to ought
+799	ondersteunen	to support
+800	werf	yard
+801	pakken	to grab
+802	bruin	brown
+803	commando	command
+804	aanwezigheid	presence
+805	omschrijven	to describe
+806	jas	coat
+807	noodzakelijk	necessary
+808	zinken	to sink
+809	uitrekken	to stretch
+810	lijden	to suffer
+811	plotseling	sudden
+812	verdwijnen	to disappear
+813	acht	eight
+814	pad	path
+815	bijzonder	particular
+816	verspreiden	to spread
+817	duisternis	darkness
+818	trap	stair
+819	bedanken	to thank
+820	beweging	movement
+821	moeilijk	difficult
+822	winkel	shop
+823	verbleken	pale
+824	toebehoren	to belong
+825	taal	language
+826	speciaal	special
+827	ernstig	serious
+828	herinneren	to remind
+829	voorzien	to provide
+830	smal	narrow
+831	staat	condition
+832	buigen	to bend
+833	ster	star
+834	fles	bottle
+835	levend	alive
+836	sleutel	key
+837	schommelen	to swing
+838	luidruchtig	loud
+839	zachtjes	quietly
+840	vergissing	mistake
+841	observeren	to observe
+842	opmerken	to remark
+843	schoonheid	beauty
+844	voorzichtig	carefully
+845	poort	gate
+846	kloppen	to knock
+847	glijden	to slide
+848	bewust	aware
+849	verwijderen	to remove
+850	helemaal	completely
+851	durven	to dare
+852	knecht	servant
+853	buigen	to bow
+854	cirkel	circle
+855	thee	tea
+856	boos	angry
+857	persoonlijk	personal
+858	wolk	cloud
+859	regel	rule
+860	strijd	battle
+861	boord	board
+862	privaat	private
+863	wond	wound
+864	natuurlijk	natural
+865	ergens	somewhere
+866	voort	forth
+867	smaak	taste
+868	repareren	to fix
+869	gemakkelijk	easily
+870	hoe dan ook	anyway
+871	schepsel	creature
+872	lengte	length
+873	op te slaan	store
+874	vers	fresh
+875	wijn	wine
+876	appartement	apartment
+877	gelegenheid	occasion
+878	beeld	image
+879	systeem	system
+880	rechter	judge
+881	tong	tongue
+882	pond	pound
+883	kop	cup
+884	maken	to create
+885	vorm	shape
+886	waard	worth
+887	lied	song
+888	produceren	to produce
+889	vanavond	tonight
+890	ziek	ill
+891	sneeuw	snow
+892	niveau	level
+893	dwaas	fool
+894	daarom	therefore
+895	tellen	to count
+896	ziek	sick
+897	sociaal	social
+898	morgen	tomorrow
+899	detail-	detail
+900	mening	opinion
+901	shouders ophalen	to shrug
+902	betrekken	to involve
+903	reusachtig	huge
+904	gieten	to pour
+905	stoer	cool
+906	borst	breast
+907	vermoeien	to tire
+908	licht	slightly
+909	kamp	camp
+910	voorbeeld	example
+911	reis	trip
+912	paar-	pair
+913	verhaal	tale
+914	flitsen	to flash
+915	waarschijnlijk	likely
+916	doorgaans	usually
+917	onmogelijk	impossible
+918	vreselijk	terrible
+919	maatschappij	society
+920	stelen	to steal
+921	vrede	peace
+922	bericht	message
+923	slaapkamer	bedroom
+924	affaire	affair
+925	optreden	to occur
+926	nodig hebben	to require
+927	schoen	shoe
+928	van plan zijn	to intend
+929	warmte	heat
+930	kleur	color
+931	leger	army
+932	vreemdeling	stranger
+933	druk	busy
+934	grijs	gray
+935	Duitse	German
+936	bevatten	to contain
+937	geel	yellow
+938	kaart	card
+939	scherp	sharp
+940	behandelen	to treat
+941	kalmte	calm
+942	bal	ball
+943	bodem	bottom
+944	Gevaar	danger
+945	geheel	entire
+946	om vast te stellen	to determine
+947	slechts	merely
+948	vis	fish
+949	hoofd	main
+950	verven	to paint
+951	casten	to cast
+952	schrijver	author
+953	lawaai	noise
+954	boosheid	anger
+955	verschil	difference
+956	gast	guest
+957	verdenken	to suspect
+958	schok	shock
+959	schot	shot
+960	chef	chief
+961	schijnen	to shine
+962	Wassen	to wash
+963	ademen	to breathe
+964	regering	government
+965	vermijden	to avoid
+966	stadium	stage
+967	vijftig	fifty
+968	gat	hole
+969	auteur	writer
+970	uitbarsten	to burst
+971	keuze	choice
+972	zilver	silver
+973	uitroepen	to exclaim
+974	klein	tiny
+975	gras	grass
+976	leiden	to direct
+977	verschijning	appearance
+978	Amerika	America
+979	prachtig	wonderful
+980	inpakken	to pack
+981	ziekenhuis	hospital
+982	de hare	hers
+983	voorzichtig	gently
+984	zacht	softly
+985	spoor	track
+986	bewijsmateriaal	evidence
+987	slecht	evil
+988	onthullen	to reveal
+989	bestaan	to exist
+990	slepen	to drag
+991	bidden	to pray
+992	kennis	knowledge
+993	uitdrukken	to express
+994	terzijde	aside
+995	vertrouwd	familiar
+996	periode	period
+997	blok	block
+998	duidelijk	clearly
+999	morren	to murmur
+1000	stroom	stream
+1001	vegen	to sweep
+1002	omstandigheid	circumstance
+1003	aandringen	to insist
+1004	kwartaal	quarter
+1005	hersenen	brain
+1006	vlakte	plain
+1007	vlak	flat
+1008	kwestie	issue
+1009	baseren	base
+1010	genot	delight
+1011	eiland	island
+1012	Parijs	Paris
+1013	kans	opportunity
+1014	fabriek	plant
+1015	vreugde	joy
+1016	verschuiven	to shift
+1017	verhouding	relationship
+1018	mes	knife
+1019	poetsen	to brush
+1020	gering	slight
+1021	vloek	damn
+1022	beven	to tremble
+1023	te bespreken	to discuss
+1024	divers	various
+1025	waarde	value
+1026	seks	sex
+1027	lokaal	local
+1028	jeugd	youth
+1029	praktijk	practice
+1030	nat	wet
+1031	ontbijt	breakfast
+1032	gezagvoerder	captain
+1033	vernietigen	to destroy
+1034	reis	journey
+1035	zondag	Sunday
+1036	hoe dan ook	somehow
+1037	fronsen	to frown
+1038	inpakken	to wrap
+1039	kat	cat
+1040	gebonden	bound
+1041	gebaar	gesture
+1042	priester	priest
+1043	Frankrijk	France
+1044	ermee omgaan	to handle
+1045	hemel	heaven
+1046	getuige	witness
+1047	verhogen	to increase
+1048	voorzien zijn van	feature
+1049	om te schoppen	to kick
+1050	aannemen	to assume
+1051	in slaap	asleep
+1052	herinneren	to recall
+1053	wedstrijd	match
+1054	strak	tight
+1055	Bos	forest
+1056	beschermen	to protect
+1057	gebrek	lack
+1058	metgezel	companion
+1059	geheel	entirely
+1060	besluit	decision
+1061	opnemen	to include
+1062	spoor	trail
+1063	uitnodigen	to invite
+1064	emotie	emotion
+1065	bot	bone
+1066	uur	o’clock
+1067	omgeven	to surround
+1068	laatste	final
+1069	oppervlakte	surface
+1070	dozijn	dozen
+1071	verklaren	to declare
+1072	wapen	weapon
+1073	centrum	center
+1074	Welkom	welcome
+1075	misdrijf	crime
+1076	gewicht	weight
+1077	minnaar	lover
+1078	zwaard	sword
+1079	lijst	list
+1080	datum	date
+1081	bijwonen	to attend
+1082	toespraak	speech
+1083	Christelijk	Christian
+1084	verzekeren	to assure
+1085	snappen	to snap
+1086	beweging	motion
+1087	passie	passion
+1088	om verder te gaan	to advance
+1089	invloed	influence
+1090	tenzij	unless
+1091	snelheid	speed
+1092	mensen	folk
+1093	maan	moon
+1094	voeden	to feed
+1095	politiek	political
+1096	smeken	to beg
+1097	overeenstemmen	to accord
+1098	veertig	forty
+1099	negen	nine
+1100	loslaten	to release
+1101	noorden	north
+1102	oom	uncle
+1103	oude	ancient
+1104	verdrietig	sad
+1105	Brits	British
+1106	flauw	faint
+1107	dubbele	double
+1108	graf	grave
+1109	ogenblik	instant
+1110	bord	plate
+1111	begraven	to bury
+1112	volmaakt	perfectly
+1113	heerlijk	lovely
+1114	de jouwe	yours
+1115	ijs-	ice
+1116	scheiden	to separate
+1117	bijten	to bite
+1118	dak	roof
+1119	zweren	to swear
+1120	duim	inch
+1121	bestuurder	driver
+1122	spiegel	mirror
+1123	maag	stomach
+1124	wezen	being
+1125	verkrijgen	to gain
+1126	negeren	to ignore
+1127	oke	okay
+1128	reageren	to respond
+1129	niemand	nobody
+1130	tegenover	opposite
+1131	lastig vallen	to bother
+1132	regelen	to arrange
+1133	bagageruimte	boot
+1134	stof	dust
+1135	wrijven	to rub
+1136	direct	directly
+1137	gloed	glow
+1138	schreeuwen	to yell
+1139	individu	individual
+1140	verpleegster	nurse
+1141	Mvr	Mrs
+1142	visie	vision
+1143	verspillen	to waste
+1144	trots	proud
+1145	boos	mad
+1146	autoriteit	authority
+1147	krant-	newspaper
+1148	Kerstmis-	Christmas
+1149	risico	risk
+1150	vooral	particularly
+1151	mate	degree
+1152	voormalig	former
+1153	iets	somewhat
+1154	stijl	style
+1155	iemand	somebody
+1156	bezitten	to possess
+1157	vrachtauto	truck
+1158	interessant	interesting
+1159	grap	joke
+1160	te mompelen	to mutter
+1161	eigendom	property
+1162	kaal	bare
+1163	vlees	flesh
+1164	reliëf	relief
+1165	twijfelen	to hesitate
+1166	verlichten	to ease
+1167	greep	grip
+1168	springen	to leap
+1169	levering	supply
+1170	onderbreken	to interrupt
+1171	maaltijd	meal
+1172	neef	cousin
+1173	werkwijze	process
+1174	vrouw	female
+1175	verlies	loss
+1176	sigaret	cigarette
+1177	ijzer	iron
+1178	overtuigen	to convince
+1179	deel	apart
+1180	zin in hebben	fancy
+1181	rij	row
+1182	tempo	pace
+1183	tweemaal	twice
+1184	vloeien	to flow
+1185	geduldig	patient
+1186	doen alsof	to pretend
+1187	grootte	size
+1188	nauwelijks	barely
+1189	huwelijk	wedding
+1190	aankondigen	to announce
+1191	gelach	laughter
+1192	vel	sheet
+1193	ontwerp	design
+1194	koken	to cook
+1195	uw	thy
+1196	wiel	wheel
+1197	succes	success
+1198	gevaarlijk	dangerous
+1199	zuiden	south
+1200	wakker	awake
+1201	los	loose
+1202	voorhoofd	forehead
+1203	breed	broad
+1204	woestijn	desert
+1205	roeren	to stir
+1206	beroerte	stroke
+1207	vleugel	wing
+1208	waarschuwen	to warn
+1209	vouwen	to fold
+1210	stapel	pile
+1211	vlam	flame
+1212	Ingang	entrance
+1213	heer	lord
+1214	zeilen	to sail
+1215	introduceren	to introduce
+1216	glad	smooth
+1217	krachtig	powerful
+1218	kosten	cost
+1219	miljoen	million
+1220	geloof	faith
+1221	slikken	to swallow
+1222	brug	bridge
+1223	maatregel	measure
+1224	Blind	blind
+1225	iedereen	everybody
+1226	fortuin	fortune
+1227	ten gevolge	due
+1228	teder	gentle
+1229	onderzoeken	to examine
+1230	gek	crazy
+1231	pret	fun
+1232	trots	pride
+1233	mannetje	male
+1234	deelnemen	to engage
+1235	montuur	frame
+1236	realiteit	reality
+1237	gepast	proper
+1238	reflecteren	to reflect
+1239	te dwalen	to wander
+1240	te representeren	to represent
+1241	weer	weather
+1242	bevredigen	to satisfy
+1243	moeilijkheid	difficulty
+1244	zwak	weak
+1245	betekenis	meaning
+1246	vlucht	flight
+1247	aangenaam	pleasant
+1248	dek	deck
+1249	voorzichtig	careful
+1250	plein	square
+1251	excuus	excuse
+1252	firma	firm
+1253	tak	branch
+1254	vegen	to wipe
+1255	prijs	price
+1256	origineel	original
+1257	twaalf	twelve
+1258	advocaat	lawyer
+1259	spoor	trace
+1260	gebed	prayer
+1261	iemand	anybody
+1262	eer	honor
+1263	klok	bell
+1264	Christus	Christ
+1265	energie	energy
+1266	mogelijk	possibly
+1267	gewoonte	habit
+1268	gewillig	willing
+1269	kwaliteit	quality
+1270	gooien	to toss
+1271	fout	fault
+1272	verlagen	to lower
+1273	zeker	surely
+1274	blijkbaar	apparently
+1275	ruzie maken	to argue
+1276	begin	beginning
+1277	knap	handsome
+1278	diep	deeply
+1279	beschuldigen	to blame
+1280	protesteren	to protest
+1281	gevangene	prisoner
+1282	aangeven	to indicate
+1283	u	thee
+1284	draaien	to twist
+1285	jas	jacket
+1286	held	hero
+1287	geluk	luck
+1288	inhoud	content
+1289	informeren	to inform
+1290	voorkomen	to prevent
+1291	geluk	happiness
+1292	werkelijk	truly
+1293	ontwikkelen	to develop
+1294	kin	chin
+1295	te gronde richten	to ruin
+1296	breken	to crack
+1297	leider	leader
+1298	gisteren	yesterday
+1299	vijftien	fifteen
+1300	houten	wooden
+1301	afleveren	to deliver
+1302	middel	agent
+1303	materiaal	material
+1304	antwoord	response
+1305	dom	stupid
+1306	mode	fashion
+1307	taak	task
+1308	nieuwsgierig	curious
+1309	slagen	to succeed
+1310	wijs	wise
+1311	bedrag	amount
+1312	telefoon	telephone
+1313	ontkennen	to deny
+1314	graven	to dig
+1315	wet	law
+1316	aandringen	to urge
+1317	voor altijd	forever
+1318	gemeenschap	community
+1319	fysiek	physical
+1320	bron	source
+1321	leraar	teacher
+1322	slaaf	slave
+1323	dik	fat
+1324	voorkeur hebben voor	to prefer
+1325	leger	military
+1326	brood	bread
+1327	verwijzen	to refer
+1328	cabine	cabin
+1329	geheel	fully
+1330	niet in staat	unable
+1331	vergezellen	to accompany
+1332	verder gaan	to proceed
+1333	uitwisselen	to exchange
+1334	massa-	mass
+1335	verzoek	request
+1336	bewerkstelligen	to establish
+1337	vreemd	odd
+1338	kust-	shore
+1339	gidsen	to guide
+1340	gouden	golden
+1341	onszelf	ourselves
+1342	louter	mere
+1343	relatie	relation
+1344	bedreigen	to threaten
+1345	tarief	rate
+1346	vervloeken	to curse
+1347	bier	beer
+1348	afgelegen	distant
+1349	voor de hand liggend	obvious
+1350	commentaar	comment
+1351	edele	noble
+1352	voordeel	advantage
+1353	wrok	spite
+1354	het dossier	file
+1355	mogelijkheid	possibility
+1356	uitvoeren	to conduct
+1357	vervagen	to fade
+1358	concentreren	to focus
+1359	scherm	screen
+1360	bestaan	existence
+1361	opsteigen	to mount
+1362	zand	sand
+1363	slachtoffer	victim
+1364	woede	rage
+1365	teller	counter
+1366	laatstgenoemde	latter
+1367	bang maken	to scare
+1368	ongeval	accident
+1369	indruk	impression
+1370	te vergelijken	to peer
+1371	homoseksueel	gay
+1372	krullen	to curl
+1373	verzamelen	to collect
+1374	marcheren	to march
+1375	weergeven	to display
+1376	strand	beach
+1377	tante	aunt
+1378	deuropening	doorway
+1379	comfortabel	comfortable
+1380	afdrijven	to drift
+1381	jammer	pity
+1382	opwinding	excitement
+1383	arresteren	to arrest
+1384	duidelijk	obviously
+1385	anders-	otherwise
+1386	handel	trade
+1387	cel	cell
+1388	Gezondheid	health
+1389	westen	west
+1390	leer	leather
+1391	ruw	rough
+1392	hijgen	to gasp
+1393	presteren	to perform
+1394	roze	pink
+1395	zin	sentence
+1396	humeur	mood
+1397	artikel	article
+1398	keten	chain
+1399	vervoer	carriage
+1400	stamelen	to utter
+1401	schaduw	shade
+1402	vlak	plane
+1403	vergeven	to forgive
+1404	gedicht	poem
+1405	touw	rope
+1406	aanleg	instance
+1407	zuiver	pure
+1408	Laden	to load
+1409	grijpen	to seize
+1410	achterkant	rear
+1411	eerlijk	honest
+1412	groot	major
+1413	soortgelijk	similar
+1414	activiteit	activity
+1415	echoën	to echo
+1416	bezetten	to occupy
+1417	beroemd	famous
+1418	overleven	to survive
+1419	angstig	anxious
+1420	grappig	funny
+1421	duivel	devil
+1422	vertrouwen	confidence
+1423	betreuren	to regret
+1424	begaan	to commit
+1425	zweet	sweat
+1426	Russisch	Russian
+1427	reeks	range
+1428	herstellen	to recover
+1429	verschrikking	horror
+1430	veiligheid	security
+1431	bemanning	crew
+1432	grommen	to roar
+1433	dageraad	dawn
+1434	natie	nation
+1435	metaal	metal
+1436	nerveus	nervous
+1437	gevangenis	prison
+1438	Verlaten	to abandon
+1439	overal	anywhere
+1440	dichter	poet
+1441	zijn	sin
+1442	naar gras	to grasp
+1443	houding	attitude
+1444	beveiligen	to secure
+1445	verklaring	statement
+1446	naakt	naked
+1447	rekening	bill
+1448	voorhoofd	brow
+1449	moraliteit	moral
+1450	rolle	role
+1451	overvloed	plenty
+1452	carrière	career
+1453	staart	tail
+1454	geboorte	birth
+1455	toepassen	to apply
+1456	officieel	official
+1457	om te vertellen	to relate
+1458	lot	fate
+1459	vallei	valley
+1460	verbeelding	imagination
+1461	bang maken	to frighten
+1462	markt	market
+1463	vuist	fist
+1464	naar ovens	to owe
+1465	intentie	intention
+1466	verbinding	connection
+1467	serie	series
+1468	moed	courage
+1469	toren	tower
+1470	meer	lake
+1471	te voorschijn komen	to emerge
+1472	inzetten	to bet
+1473	film	movie
+1474	rok	skirt
+1475	huilen	to weep
+1476	kamer	chamber
+1477	proces	trial
+1478	magie	magic
+1479	motor	engine
+1480	dank	thanks
+1481	schrift	writing
+1482	knop	button
+1483	jagen	to hunt
+1484	gewoon	ordinary
+1485	uitbreiden	to extend
+1486	om te redden	to spare
+1487	theorie	theory
+1488	normaal	normal
+1489	vast	steady
+1490	verlenen	to grant
+1491	juni	June
+1492	Jood	Jew
+1493	tekst	text
+1494	absoluut	absolutely
+1495	eer	honour
+1496	drijven	to float
+1497	mysterie	mystery
+1498	seizoen	season
+1499	eigenaar	owner
+1500	zich veroorloven	to afford
+1501	kleur	colour
+1502	advies	advice
+1503	bewonderen	to admire
+1504	pet	cap
+1505	vrijheid	freedom
+1506	twee blikken	to glare
+1507	verdienen	to deserve
+1508	groeten	to greet
+1509	knuffelen	to hug
+1510	personeel	staff
+1511	stoten	to thrust
+1512	naderhand	afterwards
+1513	afhankelijk zijn	to depend
+1514	zwemmen	to swim
+1515	zwembad	pool
+1516	signaal	signal
+1517	onschuldig	innocent
+1518	hiel	heel
+1519	generelt	generally
+1520	gordijn	curtain
+1521	bezit	possession
+1522	foto	photograph
+1523	nauwelijks	scarcely
+1524	inheems	native
+1525	grijs	grey
+1526	formulier	blanket
+1527	toestaan	to permit
+1528	vies	dirty
+1529	schande	shame
+1530	ophouden	to cease
+1531	ei	egg
+1532	toelichting	explanation
+1533	toehoorders	audience
+1534	afschuwelijk	awful
+1535	pijp	pipe
+1536	te spannen	to strain
+1537	kunstenaar	artist
+1538	persen	to squeeze
+1539	roman	Roman
+1540	in beroep gaan	to appeal
+1541	doek	cloth
+1542	terreur	terror
+1543	oosten	east
+1544	sectie	section
+1545	storen	to disturb
+1546	rang	rank
+1547	vriendschappelijk	friendly
+1548	hongerig	hungry
+1549	kruipen	to creep
+1550	bezoeker	visitor
+1551	overal	everywhere
+1552	religieus	religious
+1553	verkrijgen	to obtain
+1554	vlees	meat
+1555	meid	maid
+1556	gerechtigheid	justice
+1557	vooruitgang	progress
+1558	schoot	lap
+1559	boven	upstairs
+1560	geloof	belief
+1561	verbinden	to connect
+1562	roman	novel
+1563	spook	ghost
+1564	streven	to aim
+1565	gooien	to fling
+1566	zaterdag	Saturday
+1567	chirurgie	operation
+1568	verlichten	to relieve
+1569	meer	anymore
+1570	draaft	despite
+1571	taille	waist
+1572	melk	milk
+1573	omarmen	to embrace
+1574	badkamer	bathroom
+1575	ontmoeten	to encounter
+1576	landgoed	estate
+1577	voorgaand	previous
+1578	draaien	to spin
+1579	fictie	fiction
+1580	groots	grand
+1581	val	trap
+1582	beïnvloeden	to affect
+1583	truc	trick
+1584	zijde	silk
+1585	soepen	supper
+1586	dronken	drunk
+1587	wenk	hint
+1588	vervangen	to replace
+1589	verontwaardigd	harm
+1590	elleboog	elbow
+1591	om af te dalen	to descend
+1592	twee verliezen	to tap
+1593	veranda	porch
+1594	opzwellen	to swell
+1595	ups	upper
+1596	politieagent	cop
+1597	grootvader	grandfather
+1598	oefening	exercise
+1599	bibliotheek	library
+1600	spier	muscle
+1601	bevriezen	to freeze
+1602	overstuur	to upset
+1603	klagen	to complain
+1604	Europa	Europe
+1605	gunst	favor
+1606	wortel	root
+1607	beest	beast
+1608	opstaan	to arise
+1609	uitdaging	challenge
+1610	douche	shower
+1611	Grieks	Greek
+1612	overal	throughout
+1613	seksueel	sexual
+1614	snaar	string
+1615	limiet	limit
+1616	religie	religion
+1617	druk	pressure
+1618	verdwijnen	to vanish
+1619	gratie	grace
+1620	groot	vast
+1621	bekennen	to confess
+1622	offer	sacrifice
+1623	aankomst	arrival
+1624	rukken	to jerk
+1625	les	lesson
+1626	heup	hip
+1627	vertrekken	lad
+1628	olie	oil
+1629	patroon	pattern
+1630	regelmatig	regular
+1631	geweer	rifle
+1632	gelukkig	lucky
+1633	ezel	ass
+1634	dof	dull
+1635	bewust	conscious
+1636	knoeien	mess
+1637	kreunen	to groan
+1638	konsekvens	consequence
+1639	balans	balance
+1640	beginsel	principle
+1641	genegenheid	affection
+1642	stroom	current
+1643	kaars	candle
+1644	stront	shit
+1645	vlooien	to flee
+1646	hoogte	height
+1647	voorraad	stock
+1648	ridder	knight
+1649	klok	clock
+1650	kasteel	castle
+1651	hek	fence
+1652	schuldig	guilty
+1653	op te lossen	to resolve
+1654	knielen	to kneel
+1655	om te ontspannen	to relax
+1656	tempel	temple
+1657	behalve	besides
+1658	tijdschrift	magazine
+1659	favoriet	favorite
+1660	gezeten	seated
+1661	april	April
+1662	traditie	tradition
+1663	waarderen	to appreciate
+1664	wetenschap	science
+1665	populair	popular
+1666	grootmoeder	grandmother
+1667	twee rillen	to shiver
+1668	dagelijks	daily
+1669	bespreking	discussion
+1670	prins	prince
+1671	betoveren	charm
+1672	strippen	to strip
+1673	om te besluiten	to conclude
+1674	beschrijving	description
+1675	plafond	ceiling
+1676	struik	bush
+1677	VALSE	FALSE
+1678	intersted	interested
+1679	van nabij	closely
+1680	vastklampen	to cling
+1681	bank	bench
+1682	najagen	to pursue
+1683	dapper	brave
+1684	tevredenheid	satisfaction
+1685	kruipen	to crawl
+1686	literair	literary
+1687	bloedig	bloody
+1688	vergelijken	to compare
+1689	buitenlands	foreign
+1690	voorstellen	to propose
+1691	om te informeren	to inquire
+1692	verdriet	grief
+1693	hulp	aid
+1694	vriendschap	friendship
+1695	om te crashen	to crash
+1696	avontuur	adventure
+1697	vechten	to stride
+1698	cultuur	culture
+1699	balk	beam
+1700	veiligheid	safety
+1701	mars	March
+1702	bril	glasses
+1703	evne	ability
+1704	stevig	firmly
+1705	begrip	understanding
+1706	staal	steel
+1707	zenuw	nerve
+1708	engel	angel
+1709	reus	giant
+1710	achterdocht	suspicion
+1711	onbekend	unknown
+1712	schrikken	to startle
+1713	gelijk	equal
+1714	lachen	to gleam
+1715	generatie	generation
+1716	verzetten	to resist
+1717	snikken	to sob
+1718	När ooit	whenever
+1719	spellen	spell
+1720	reactie	reaction
+1721	onderwijs	education
+1722	bewijs	proof
+1723	opwinden	to excite
+1724	schijnen	to blink
+1725	zweep	to whip
+1726	identificeren	to identify
+1727	kom	bowl
+1728	blootstellen	to expose
+1729	waarschuwing	warning
+1730	diepte	depth
+1731	hoofdstuk	chapter
+1732	pijn doen	to ache
+1733	nippen	to sip
+1734	hard	heavily
+1735	Italiaans	Italian
+1736	wenkbrauw	eyebrow
+1737	grinniken	to chuckle
+1738	paleis	palace
+1739	ernstig	seriously
+1740	zich terugtrekken	to retreat
+1741	schilderij	painting
+1742	viktigheten	importance
+1743	koningin	queen
+1744	zwijgend	silently
+1745	pols	wrist
+1746	naar slib	to slam
+1747	verantwoordelijkheid	responsibility
+1748	helemaal	altogether
+1749	kaak	jaw
+1750	slecht	badly
+1751	passagier	passenger
+1752	juli	July
+1753	bekwaamheid	skill
+1754	missie	mission
+1755	achtervolgen	to chase
+1756	gewoonte	custom
+1757	te verzorgen	to tend
+1758	werkwijze	method
+1759	koe	cow
+1760	gretig	eager
+1761	krijger	warrior
+1762	koppelen	to clutch
+1763	waarnemen	to perceive
+1764	grot	cave
+1765	lof	praise
+1766	in staat	capable
+1767	huren	to hire
+1768	versie	version
+1769	buur	neighbor
+1770	verbergen	to conceal
+1771	boren	to bore
+1772	sympathie	sympathy
+1773	draad	wire
+1774	nieuwsgierigheid	curiosity
+1775	twee verplicht	to oblige
+1776	riem	belt
+1777	relatief	relative
+1778	notie	notion
+1779	vastleggen	to capture
+1780	om te schakelen	to switch
+1781	divan	couch
+1782	gang	corridor
+1783	vertrekken	to depart
+1784	ogenblikkelijk	instantly
+1785	Spaans	Spanish
+1786	bedreiging	threat
+1787	zeer	highly
+1788	tenslotte	eventually
+1789	gebruiken	to employ
+1790	afwezigheid	absence
+1791	wanhoop	despair
+1792	structuur	structure
+1793	eenzaam	lonely
+1794	dankbaar	grateful
+1795	zich terugtrekken	to withdraw
+1796	kaart	map
+1797	meestal	mostly
+1798	kussen	pillow
+1799	zichtbaar	visible
+1800	vaartuig	vessel
+1801	minnares	mistress
+1802	bevestigen	to attach
+1803	delicaat	delicate
+1804	verwarren	to confuse
+1805	professioneel	professional
+1806	warmte	warmth
+1807	gebroken	broken
+1808	uitputten	to exhaust
+1809	dom	silly
+1810	droefheid	sorrow
+1811	zadel	saddle
+1812	schade	damage
+1813	mooi	rare
+1814	verraden	to betray
+1815	slapen	to slap
+1816	erkennen	to acknowledge
+1817	toga	gown
+1818	solide	solid
+1819	uiterst	extremely
+1820	uitdrukking	phrase
+1821	spijker	nail
+1822	schoonmaken	to rent
+1823	onderhouden	to maintain
+1824	augustus	August
+1825	indruk maken	to impress
+1826	arbeider	worker
+1827	kogel	bullet
+1828	romp	trunk
+1829	konkluderer	conclusion
+1830	geweer	pistol
+1831	huisje	cottage
+1832	briljant	brilliant
+1833	burger	citizen
+1834	snel	rapidly
+1835	fluiten	to whistle
+1836	onlangs	recently
+1837	wanhopig	desperate
+1838	lichtjes	lightly
+1839	verwarring	confusion
+1840	lelijk	ugly
+1841	verstand	intelligence
+1842	bed	sofa
+1843	schuren	to shed
+1844	lieveling	darling
+1845	pa	dad
+1846	bries	breeze
+1847	lika	equally
+1848	band	tape
+1849	te wagen	to venture
+1850	krabben	to scratch
+1851	geur	scent
+1852	aantrekken	to attract
+1853	ontwikkeling	development
+1854	twee lammen	to halt
+1855	vastspelden	to pin
+1856	duwen	to shove
+1857	medisch	medical
+1858	helling	slope
+1859	natuurlijk	naturally
+1860	geestelijk	mental
+1861	verdedigen	to defend
+1862	verdienen	to earn
+1863	bidden	to bid
+1864	vuil	dirt
+1865	schelp	shell
+1866	kroon	crown
+1867	geslaagd	successful
+1868	deugd	virtue
+1869	overstroming	flood
+1870	portemonnee	purse
+1871	poëzie	poetry
+1872	poppen	to pop
+1873	buik	belly
+1874	totaal	total
+1875	bevestigen	to confirm
+1876	oordeel	judgment
+1877	Enorme	enormous
+1878	verpletteren	to crush
+1879	basketbal	basket
+1880	schuilplaats	shelter
+1881	kloppen	to pat
+1882	ansvarlig	responsible
+1883	bewustzijn	consciousness
+1884	Senaste	recent
+1885	delen	to divide
+1886	crimineel	criminal
+1887	kostbaar	precious
+1888	tamelijk	fairly
+1889	aanmoedigen	to encourage
+1890	grens	border
+1891	oceaan	ocean
+1892	bladeren	blade
+1893	dij	thigh
+1894	begrafenis	funeral
+1895	afdeling	department
+1896	ongebruikelijk	unusual
+1897	twee overtuigingen	to persuade
+1898	voertuig	vehicle
+1899	vrezen	dread
+1900	achtergrond	background
+1901	standaard	standard
+1902	televisie	television
+1903	beschuldigen	to accuse
+1904	helemaal	totally
+1905	voordeel	benefit
+1906	associëren	to associate
+1907	twee renderen	to render
+1908	klerk	clerk
+1909	toestemming	permission
+1910	wettelijk	legal
+1911	kust	coast
+1912	machtig	mighty
+1913	angst	anxiety
+1914	titel	title
+1915	onderzoek	research
+1916	redden	to rescue
+1917	boer	farmer
+1918	geweld	violence
+1919	glimp	glimpse
+1920	suggestie	suggestion
+1921	kinderjaren	childhood
+1922	twee zuchten	to suck
+1923	dwaas	foolish
+1924	beloning	reward
+1925	haak	hook
+1926	verduisteren	dim
+1927	klant	client
+1928	waardig	worthy
+1929	mysterieus	mysterious
+1930	strak	tightly
+1931	wreed	cruel
+1932	scherp	sharply
+1933	kip	chicken
+1934	gewaad	robe
+1935	sensatie	sensation
+1936	struikelen	to stumble
+1937	instructie	instruction
+1938	som	sum
+1939	twee huiverden	to shudder
+1940	meubilair	furniture
+1941	vertraging	delay
+1942	prestatie	performance
+1943	opleiding	training
+1944	mouw	sleeve
+1945	schat	treasure
+1946	duim	thumb
+1947	om te springen	to dash
+1948	zestig	sixty
+1949	modder	mud
+1950	te verslaan	to defeat
+1951	lade	drawer
+1952	verhalend	narrative
+1953	oranje	orange
+1954	knap	clever
+1955	blozen	to blush
+1956	plaats	site
+1957	functie	function
+1958	hardop	aloud
+1959	kennismaking	acquaintance
+1960	kapitaal	capital
+1961	rijkdom	wealth
+1962	identiteit	identity
+1963	glorie	glory
+1964	pik	cock
+1965	troepen	troops
+1966	baard	beard
+1967	constante	constant
+1968	mislukking	failure
+1969	gastheer	host
+1970	verkeer	traffic
+1971	vrijdag	Friday
+1972	blaffen	to bark
+1973	vergeefs	vain
+1974	spugen	to spit
+1975	kilte	chill
+1976	leerling	eleven
+1977	beneden	downstairs
+1978	arbeid	labor
+1979	vermoeid	weary
+1980	hervatten	to resume
+1981	ceremonie	ceremony
+1982	middernacht	midnight
+1983	moe	tired
+1984	vierde	fourth
+1985	pijnlijk	painful
+1986	hoek	angle
+1987	revamp	useful
+1988	reputatie	reputation
+1989	baas	boss
+1990	huishouden	household
+1991	nabijgelegen	nearby
+1992	afwachten	to await
+1993	onmiddellijk	immediate
+1994	hevig	violent
+1995	buitengewoon	extraordinary
+1996	broek	pants
+1997	fonds	fond
+1998	beschaamd	ashamed
+1999	gehoorzamen	to obey
+2000	werkelijk	actual

@@ -31,8 +31,26 @@ data  = {
 }
 # with open('orders.json', 'w') as f:
     # json.dump(data, f, indent=4)
-with open('orders.json', 'r') as outfile:
-    orders = json.load(outfile)
-    # print(orders)
-    for order in orders["orders"]:
-        print(order)
+def view_expenses(filename):
+    try:
+        with open(filename, 'r') as outfile:
+            # list1=[]
+            total =0
+            orders = json.load(outfile)
+            print(orders)
+            for order in orders["orders"]:
+                # print(order["total_amount"])
+                total += float(order["total_amount"])
+            # list1.append(order["total_amount"])
+        # print(list1)
+        return total
+    except Exception as e:
+        return (f"An error occured:{e}")
+print(view_expenses('orders.json'))
+
+    # sum = sum(list1)
+    # print(sum)
+    # sum=0
+    # for i in list1:
+    #     sum+=i
+    # print(sum)
