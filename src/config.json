@@ -1,0 +1,4 @@
+{
+  "source": "orders.csv",
+  "destination": "cleaned/cleaned_orders.csv"
+}
